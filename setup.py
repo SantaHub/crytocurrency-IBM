@@ -19,6 +19,6 @@ setup(
     version='1.0.0',
     description='Priya Shaji Developed Crypto currency prediction',
     long_description=long_description,
-    url='https://github.com/SantaHub/',
+    url='https://github.com/SantaHub/crytocurrency-IBM',
     license='Apache-2.0'
 )
